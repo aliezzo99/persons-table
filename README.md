@@ -1,4 +1,4 @@
-Hallo und vielen Dank für Ihr Interesse an der AraCom!
+Hallo und vielen Dank für Ihr Interesse an unsere Firma!
 
 Um Ihren jetzigen Stand in der Programmierung besser einschätzen zu können, haben wir uns für Sie folgende Programmieraufgabe ausgedacht:
 
